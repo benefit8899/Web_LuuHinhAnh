@@ -1,0 +1,5 @@
+D:\Learning\ASP_NET\KetNoiDuLieuSQL\KetNoiDuLieuSQL\bin\KetNoiDuLieuSQL.dll
+D:\Learning\ASP_NET\KetNoiDuLieuSQL\KetNoiDuLieuSQL\bin\KetNoiDuLieuSQL.pdb
+D:\Learning\ASP_NET\KetNoiDuLieuSQL\KetNoiDuLieuSQL\obj\Debug\KetNoiDuLieuSQL.dll
+D:\Learning\ASP_NET\KetNoiDuLieuSQL\KetNoiDuLieuSQL\obj\Debug\KetNoiDuLieuSQL.pdb
+D:\Learning\ASP_NET\KetNoiDuLieuSQL\KetNoiDuLieuSQL\obj\Debug\KetNoiDuLieuSQL.csprojResolveAssemblyReference.cache
