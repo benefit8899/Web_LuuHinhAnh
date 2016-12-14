@@ -3,4 +3,4 @@
 2. check password
 	- match: login success full!
 	- not match: login fail!
-//edit funcion login - from branch save search-> to test conflict
+//edit funcion login - from branch save infomation-> to test conflict
