@@ -1,0 +1,7 @@
+1. Check empty info
+
+2. Check info is right
+
+3. Check info is exis
+
+4. Save info
