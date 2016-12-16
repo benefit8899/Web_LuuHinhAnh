@@ -1,0 +1,5 @@
+1. chose location
+
+2. set file name
+
+3. save
