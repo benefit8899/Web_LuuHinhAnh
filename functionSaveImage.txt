@@ -3,3 +3,5 @@
 2. set file name
 
 3. save
+	- check exist file
+	- save file
